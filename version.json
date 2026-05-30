@@ -1,6 +1,6 @@
 {
   "version": "1.0.1",
   "required": false,
-  "download_url": "https://github.com/Lucasd101/imba-releases/releases/download/v1.0.1/IMBA_Bot_Setup.exe",
+  "download_url": "https://github.com/Lucasd101/imba-releases/releases/download/v1.0.1/IMBA_Bot_Update.exe",
   "notes": "Critical fix: resolved session kickout issue on some machines. Please update now."
 }
