@@ -1,6 +1,6 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.3",
   "required": false,
-  "download_url": "https://github.com/Lucasd101/imba-releases/releases/download/v1.0.1/IMBA_Bot_Update.exe",
-  "notes": "Critical fix: resolved session kickout issue on some machines. Please update now."
+  "download_url": "https://github.com/Lucasd101/imba-releases/releases/download/v1.0.3/IMBA_Bot_Setup.exe",
+  "notes": "Fixed session keepalive — bot now stays connected during long waits before market open."
 }
